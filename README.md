@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![facilskunk Banner](https://raw.githubusercontent.com/skunkworks-io/facilskunk/4bf9bc176d4372079bf2f689225e67a79d5fdc8c/assets/YOUR%20AI%20LEARINGSTARTS%20HERE.svg?token=A6CHLBDVFDYIL6RYJ3PRHUTH44GUI)
+![facilskunk Banner](https://github.com/skunkworks-io/facilskunk/assets/YOUR%20AI%20LEARINGSTARTS%20HERE.svg?token=A6CHLBDVFDYIL6RYJ3PRHUTH44GUI)
 
-![facilskunk Logo](https://img.shields.io/badge/facilskunk-AI%20Learning%20Guide-6C3483?style=for-the-badge)
+![facilskunk Logo](https://img.shields.io/badge/facilskunk-AI%20Learning%20Guide-6C3483?style=for-the-badge)assets/FACILISKUNK.jpeg
 
 [![GitHub license](https://img.shields.io/github/license/skunkworks-io/facilskunk)](https://github.com/skunkworks-io/facilskunk/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/skunkworks-io/facilskunk)](https://github.com/skunkworks-io/facilskunk/issues)
