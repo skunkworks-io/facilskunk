@@ -4,7 +4,7 @@
 
 ![facilskunk Banner](https://github.com/skunkworks-io/facilskunk/assets/YOUR%20AI%20LEARINGSTARTS%20HERE.svg?token=A6CHLBDVFDYIL6RYJ3PRHUTH44GUI)
 
-![facilskunk Logo](https://img.shields.io/badge/facilskunk-AI%20Learning%20Guide-6C3483?style=for-the-badge)assets/FACILISKUNK.jpeg
+![facilskunk Logo](https://img.shields.io/badge/facilskunk-AI%20Learning%20Guide-6C3483?style=for-the-badge)assets/FACILISKUNK.jpeg)
 
 [![GitHub license](https://img.shields.io/github/license/skunkworks-io/facilskunk)](https://github.com/skunkworks-io/facilskunk/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/skunkworks-io/facilskunk)](https://github.com/skunkworks-io/facilskunk/issues)
