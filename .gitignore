@@ -1,0 +1,166 @@
+# facilskunk .gitignore
+
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnp/
+.pnp.js
+
+# Environment variables and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+.secrets/
+
+# Build output
+dist/
+build/
+out/
+.next/
+.nuxt/
+.cache/
+public/dist/
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Database
+*.sqlite
+*.sqlite3
+*.db
+mongo-data/
+
+# Development tools
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.history/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# ML and AI specific
+.ipynb_checkpoints/
+*.h5
+*.pkl
+*.model
+*.weights
+*.pb
+*.onnx
+models/
+checkpoints/
+.vector_cache/
+runs/
+*.pt
+*.pth
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+.temp/
+
+# User-specific content
+uploads/
+user-content/
+generated-plans/
+
+# Documentation
+docs/_build/
+docs/_static/
+docs/_templates/
+site/
+
+# Mobile app related
+.gradle/
+local.properties
+.expo/
+android/.gradle
+android/app/debug
+android/app/release
+ios/Pods/
+ios/build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+project.xcworkspace
+
+# Deployment
+.vercel
+.netlify
+.firebase/
+.serverless/
+.terraform/
+*.tfstate
+*.tfstate.backup
+.elasticbeanstalk/
+deploy/
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv

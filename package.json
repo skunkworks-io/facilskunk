@@ -1,0 +1,33 @@
+{
+  "name": "facilskunk",
+  "version": "0.1.0",
+  "description": "AI Learning Plan Guide",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js",
+    "client": "cd client && npm start",
+    "dev:full": "concurrently \"npm run dev\" \"npm run client\"",
+    "test": "jest",
+    "seed": "node scripts/seed-database.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skunkworks-io/facilskunk.git"
+  },
+  "keywords": [
+    "AI",
+    "learning",
+    "education",
+    "personalized"
+  ],
+  "author": "skunkworks-io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skunkworks-io/facilskunk/issues"
+  },
+  "homepage": "https://github.com/skunkworks-io/facilskunk#readme",
+  "dependencies": {
+    "brew": "^0.0.8"
+  }
+}
