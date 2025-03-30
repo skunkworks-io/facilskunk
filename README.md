@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![facilskunk Banner](assets/banner.svg)
+![facilskunk Banner](assets/images/YOUR%20AI%20LEARINGSTARTS%20HERE.svg)
 
 ![facilskunk Logo](https://img.shields.io/badge/facilskunk-AI%20Learning%20Guide-6C3483?style=for-the-badge)
 
